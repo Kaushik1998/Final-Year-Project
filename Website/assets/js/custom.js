@@ -86,6 +86,7 @@ $("#led13").click(function (e) {
         $("#led13icon").removeClass("ri-lightbulb-flash-line");
         $("#led13icon").addClass("ri-lightbulb-line");
       }
+      
     },
   });
 });
